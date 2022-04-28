@@ -1,11 +1,11 @@
 from typing import List
 from abc import abstractmethod
 
-__author__ = "Maryam Najafi"
-__organization__ = "Religious ChatBot"
+__author__ = "Maryam Najafi🥰"
+__organization__ = "Author Attribution"
 __license__ = "Public Domain"
 __version__ = "1.0.0"
-__email__ = "Maryam_Najafi73@yahoo.com"
+__email__ = "Maryaminj1995@gmail.com"
 __status__ = "Production"
 __date__ = "07/27/2021"
 

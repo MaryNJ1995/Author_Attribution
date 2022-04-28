@@ -1,17 +1,16 @@
-﻿import torch
-import torchmetrics
-import pytorch_lightning as pl
+﻿import pytorch_lightning as pl
+import torch
 import torch.nn.functional as function
-from torch.utils.data import Dataset, DataLoader
-from transformers import BertModel, AdamW, BertForNextSentencePrediction, get_linear_schedule_with_warmup
+import torchmetrics
 from configuration.config import BaseConfig
 from model.attention_model import Attention
+from transformers import BertModel, AdamW
 
 __author__ = "Maryam Najafi🥰"
-__organization__ = "Religious ChatBot"
+__organization__ = "Author Attribution"
 __license__ = "Public Domain"
-__version__ = "1.1.0"
-__email__ = "Maryam_Najafi73@yahoo.com"
+__version__ = "1.0.0"
+__email__ = "Maryaminj1995@gmail.com"
 __status__ = "Production"
 __date__ = "07/27/2021"
 

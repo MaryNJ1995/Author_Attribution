@@ -1,13 +1,13 @@
 import json
-from itertools import chain
 from collections import Counter
+from itertools import chain
 from typing import List
 
 __author__ = "Maryam Najafi🥰"
-__organization__ = "Religious ChatBot"
+__organization__ = "Author Attribution"
 __license__ = "Public Domain"
-__version__ = "1.1.0"
-__email__ = "Maryam_Najafi73@yahoo.com"
+__version__ = "1.0.0"
+__email__ = "Maryaminj1995@gmail.com"
 __status__ = "Production"
 __date__ = "07/27/2021"
 
