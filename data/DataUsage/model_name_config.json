@@ -1,0 +1,77 @@
+{
+  "AttentionLstms": {
+    "path": "author_attribution.methods.lstm_lstm_attention_model",
+    "object": "AttentionLstms"
+  },
+  "AttentionEmbLstms": {
+    "path": "author_attribution.methods.lstm_lstm_attention_embedding_model",
+    "object": "AttentionLstms"
+  },
+  "DCBiLstmAttentionsPOSMAX": {
+    "path": "author_attribution.methods.new_dc_max",
+    "object": "DCBiLstmAttentionsPOSMAX"
+  },
+  "MCNN": {
+    "path": "author_attribution.methods.mcnn",
+    "object": "MCNN"
+  },
+  "AttentionLstm": {
+    "path": "author_attribution.methods.lstm_attention_model",
+    "object": "AttentionLstm"
+  },
+  "CnnLstm": {
+    "path": "author_attribution.methods.cnn_lstm_model",
+    "object": "CnnLstm"
+  },
+  "AC_BiLSTM": {
+    "path": "author_attribution.methods.ac_lstm_model",
+    "object": "AC_BiLSTM"
+  },
+  "DCBiLstmAttentionCNNPOS": {
+    "path": "author_attribution.methods.dcbilstm_attentions_pos_conv_model",
+    "object": "DCBiLstmAttentionCNNPOS"
+  },
+  "DCBiLstmAttentions": {
+    "path": "author_attribution.methods.model",
+    "object": "DCBiLstmAttentions"
+  },
+  "CNN": {
+    "path": "author_attribution.methods.cnn_model",
+    "object": "CNN"
+  },
+  "LSTM": {
+    "path": "author_attribution.methods.lstm_model",
+    "object": "LSTM"
+  },
+  "RCNN": {
+    "path": "author_attribution.methods.rcnn_model",
+    "object": "RCNN"
+  },
+  "VDCNN": {
+    "path": "author_attribution.methods.vdcnn_model",
+    "object": "VDCNN"
+  },
+  "DCBiLstm": {
+    "path": "author_attribution.methods.dcbilstm_model",
+    "object": "DCBiLstm"
+  },
+  "ABCDM": {
+    "path": "author_attribution.methods.abcdm_model",
+    "object": "ABCDM"
+  },
+  "ABCDM2": {
+    "path": "author_attribution.methods.abcdm_model2",
+    "object": "ABCDM2"
+  },
+  "DCBiLstmAttention": {
+    "path": "author_attribution.methods.dcbilstm_attention_model",
+    "object": "DCBiLstmAttention"
+  },
+  "DCBiLstmAttentionPOS": {
+    "path": "author_attribution.methods.dcbilstm_attentions_pos_model",
+    "object": "DCBiLstmAttentionPOS"
+  },
+  "DCBiLstmAttentionsPOS": {
+    "path": "author_attribution.methods.new_dc",
+    "object": "DCBiLstmAttentionsPOS"
+  }}
