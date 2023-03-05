@@ -1,0 +1,6 @@
+deb [trusted=yes] http://debian.partdp.ir/ buster main
+deb-src [trusted=yes] http://debian.partdp.ir/ buster main
+deb [trusted=yes] http://debian.partdp.ir/debian-security/ buster/updates main
+deb-src [trusted=yes] http://debian.partdp.ir/debian-security/ buster/updates main
+deb [trusted=yes] http://debian.partdp.ir/ buster-updates main
+deb-src [trusted=yes] http://debian.partdp.ir/ buster-updates main
